@@ -1,4 +1,3 @@
-![](https://imgur.com/mT2ksIv.png)
 ## LifeAt Desktop(CONSTRUÇÃO...)
 <h4>O projeto é inspirado no site LifeAt , todas as suas funcionalidades como timer,notes são aplicadas no programa</h4>
 
